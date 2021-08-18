@@ -1,0 +1,10 @@
+<environmentvariabledefinition schemaname="cra2e_SharePoint_Site_2">
+  <defaultvalue>https://volvogroup.sharepoint.com/sites/proj-coe_dev/</defaultvalue>
+  <displayname default="SharePoint_Site_2">
+    <label description="SharePoint_Site_2" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.0</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <type>100000000</type>
+</environmentvariabledefinition>

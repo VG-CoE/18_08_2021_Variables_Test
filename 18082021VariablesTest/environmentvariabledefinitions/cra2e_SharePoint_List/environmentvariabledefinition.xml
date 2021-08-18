@@ -1,0 +1,15 @@
+<environmentvariabledefinition schemaname="cra2e_SharePoint_List">
+  <apiid>/providers/microsoft.powerapps/apis/shared_sharepointonline</apiid>
+  <defaultvalue>da69376a-8044-482c-bb4f-4882ff3b542a</defaultvalue>
+  <displayname default="SharePoint_List">
+    <label description="SharePoint_List" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.0</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <parameterkey>table</parameterkey>
+  <parentdefinitionid>
+    <schemaname>cra2e_SharePoint_Site</schemaname>
+  </parentdefinitionid>
+  <type>100000004</type>
+</environmentvariabledefinition>

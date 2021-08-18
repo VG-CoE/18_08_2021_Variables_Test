@@ -1,0 +1,11 @@
+<environmentvariabledefinition schemaname="cra2e_SharePoint_Site_3">
+  <apiid>/providers/microsoft.powerapps/apis/shared_sharepointonline</apiid>
+  <displayname default="SharePoint_Site_3">
+    <label description="SharePoint_Site_3" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.0</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <parameterkey>dataset</parameterkey>
+  <type>100000004</type>
+</environmentvariabledefinition>
